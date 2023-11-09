@@ -87,16 +87,17 @@ int main()
 
 
     int a;
-        printf("Enter value : ");
-        scanf("%d", &a);
+    printf("Enter value : ");
+    scanf("%d", &a);
 
-        if (a % 3 == 0 && a % 5 == 0)
-        {
-            printf("This is correct number : %d", a);
-        }
-        else{
-            printf("Wrong");
-        }
+    if (a % 3 == 0 && a % 5 == 0)
+    {
+        printf("This is correct number : %d", a);
+    }
+    else
+    {
+        printf("Wrong");
+    }
 
 
 
@@ -104,30 +105,30 @@ int main()
 
 
     int input;
-        printf("Enter input : ");
-        scanf("%d", &input);
+    printf("Enter input : ");
+    scanf("%d", &input);
 
-        if (input % 2 == 0){
-            printf("EVEN \n");
-        }
-        else{
-            printf("Odd \n");
-        }
+    if (input % 2 == 0){
+        printf("EVEN \n");
+    }
+    else{
+        printf("Odd \n");
+    }
 
 
 
 
     char ch;
-        printf("Enter charecter : ");
-        scanf("%c", &ch);
+    printf("Enter charecter : ");
+    scanf("%c", &ch);
 
-        if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
-            printf("Vowel");
-        }
-        else{
-            printf("Consonant");
-        }
-        
+    if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
+        printf("Vowel");
+    }
+    else{
+        printf("Consonant");
+    }
+    
 
 
 
@@ -136,21 +137,22 @@ int main()
 
 
     int x;
-        printf("Enter value : ");
-        scanf("%d", &x);
+    printf("Enter value : ");
+    scanf("%d", &x);
 
-        switch (x){
-            case 1:
-            printf("Number 1");
-            break;
+    switch (x)
+    {
+        case 1:
+        printf("Number 1");
+        break;
 
-            case 2:
-            printf("Number 2");
-            break;
+        case 2:
+        printf("Number 2");
+        break;
 
-            default:
-            printf("Error");
-        }
+        default:
+        printf("Error");
+    }
 
 
 
@@ -179,10 +181,6 @@ int main()
     {
         printf("%c ", ch);
     }
-    
-
-    return 0;
-}
 
 
 
