@@ -84,8 +84,6 @@ int main()
 
 
 
-
-
     int a;
     printf("Enter value : ");
     scanf("%d", &a);
@@ -114,6 +112,8 @@ int main()
     else{
         printf("Odd \n");
     }
+
+
 
 
 
