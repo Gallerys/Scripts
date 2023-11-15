@@ -136,6 +136,7 @@ int main()
 
 
 
+
     int x;
     printf("Enter value : ");
     scanf("%d", &x);
