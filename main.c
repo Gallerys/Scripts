@@ -1,5 +1,3 @@
-// It is C code
-
 #include <stdio.h>      // Standard I/O functions
 #include <stdlib.h>     // General-purpose functions and memory management
 #include <string.h>     // String manipulation functions
