@@ -19,7 +19,6 @@
 #include <sys/stat.h>   // File status information
 
 
-
 int main()
 {
     int a, b;
@@ -27,7 +26,9 @@ int main()
     printf("first number is %d, and second number is %d \n", a, b);
 
     printf("Intger size : %lu\n", sizeof(int));
+
     printf("Float size : %d\n", sizeof(float));
+
     printf("Double size : %d\n", sizeof(double));
 
     printf("The minmum value of INT = %lu\n", INT_MIN);
