@@ -74,7 +74,7 @@ License:     Free Version
 <Variable name="body.background" description="Background" type="background" color="#f8f8f8" default="$(color) url(http://2.bp.blogspot.com/-qM_z9F6OoZg/V7JRozuiDLI/AAAAAAAAAvs/Xg4UelkBkZg7VSy4q_vS0QAPPdW22vHwACK4B/s0/bg.jpg) repeat fixed top left" value="$(color) url(http://2.bp.blogspot.com/-qM_z9F6OoZg/V7JRozuiDLI/AAAAAAAAAvs/Xg4UelkBkZg7VSy4q_vS0QAPPdW22vHwACK4B/s0/bg.jpg) repeat fixed top left"/>
 
 <Group description="Main Settings" selector="body">
-  <Variable name="main.color" description="Main Theme Color" type="color" default="#FF4400" value="#FF4400"/>
+  <Variable name="main.color" description="Main Theme Color" type="color" default="#052963" value="#052963"/>
   <Variable name="main.dark.color" description="Main Dark Color" type="color" default="#2c2c2c" value="#2c2c2c"/>
   <Variable name="main.bb.color" description="Borders and Buttons Color" type="color" default="#404040" value="#404040"/>
   <Variable name="main.text.color" description="Main Text Color" type="color" default="#333333" value="#333333"/>
@@ -1121,7 +1121,7 @@ user is not using shrink to fit then we expand the header.
          <b:widget-setting name='showCommentLink'>true</b:widget-setting>
          <b:widget-setting name='style.urlcolor'>#404040</b:widget-setting>
          <b:widget-setting name='showAuthor'>true</b:widget-setting>
-         <b:widget-setting name='style.linkcolor'>#ff4400</b:widget-setting>
+         <b:widget-setting name='style.linkcolor'>#052963</b:widget-setting>
          <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
          <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
          <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
@@ -2835,7 +2835,7 @@ user is not using shrink to fit then we expand the header.
         </b:includable>
       </b:widget>
     </b:section>
-    <div class='copyright'>Created By <a href='http://soratemplates.com/' id='mycontent' rel='dofollow' title='Free Blogger Templates'>SoraTemplates</a> | Distributed By <a href='http://www.mybloggerthemes.com/' rel='dofollow' target='_blank' style='color:#FF4400;'>Blogspot Themes</a>
+    <div class='copyright'>Created By <a href='http://soratemplates.com/' id='mycontent' rel='dofollow' title='Free Blogger Templates'>SoraTemplates</a> | Distributed By <a href='http://www.mybloggerthemes.com/' rel='dofollow' target='_blank' style='color:#052963;'>Blogspot Themes</a>
     </div>
   </div>
 </div>
