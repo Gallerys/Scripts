@@ -70,7 +70,7 @@ License:     Free Version
 
 /* Variable definitions
 =======================
-<Variable name="keycolor" description="Main Color" type="color" default="#08a100" value="#08a100"/>
+<Variable name="keycolor" description="Main Color" type="color" default="#052963" value="#052963"/>
 <Variable name="body.background" description="Background" type="background" color="#f8f8f8" default="$(color) url(http://2.bp.blogspot.com/-qM_z9F6OoZg/V7JRozuiDLI/AAAAAAAAAvs/Xg4UelkBkZg7VSy4q_vS0QAPPdW22vHwACK4B/s0/bg.jpg) repeat fixed top left" value="$(color) url(http://2.bp.blogspot.com/-qM_z9F6OoZg/V7JRozuiDLI/AAAAAAAAAvs/Xg4UelkBkZg7VSy4q_vS0QAPPdW22vHwACK4B/s0/bg.jpg) repeat fixed top left"/>
 
 <Group description="Main Settings" selector="body">
