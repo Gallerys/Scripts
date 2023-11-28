@@ -75,7 +75,7 @@ License:     Free Version
 
 <Group description="Main Settings" selector="body">
   <Variable name="main.color" description="Main Theme Color" type="color" default="#052963" value="#052963"/>
-  <Variable name="main.dark.color" description="Main Dark Color" type="color" default="#2c2c2c" value="#2c2c2c"/>
+  <Variable name="main.dark.color" description="Main Dark Color" type="color" default="#052963" value="#052963"/>
   <Variable name="main.bb.color" description="Borders and Buttons Color" type="color" default="#404040" value="#404040"/>
   <Variable name="main.text.color" description="Main Text Color" type="color" default="#052963" value="#052963"/>
 </Group>
@@ -1116,7 +1116,7 @@ user is not using shrink to fit then we expand the header.
      <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='1'>
        <b:widget-settings>
          <b:widget-setting name='showDateHeader'>true</b:widget-setting>
-         <b:widget-setting name='style.textcolor'>#2c2c2c</b:widget-setting>
+         <b:widget-setting name='style.textcolor'>#052963</b:widget-setting>
          <b:widget-setting name='showShareButtons'>true</b:widget-setting>
          <b:widget-setting name='showCommentLink'>true</b:widget-setting>
          <b:widget-setting name='style.urlcolor'>#404040</b:widget-setting>
