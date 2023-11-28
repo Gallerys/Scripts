@@ -2536,22 +2536,7 @@ user is not using shrink to fit then we expand the header.
               <b:include name='quickedit'/>
             </b:includable>
           </b:widget>
-	<b:widget id='HTML5' locked='false' title='বিজ্ঞান ও প্রযুক্তি' type='HTML' version='1'>
-            <b:widget-settings>
-              <b:widget-setting name='content'>3/বিজ্ঞান ও প্রযুক্তি/post-per-tag</b:widget-setting>
-            </b:widget-settings>
-            <b:includable id='main'>
-              <!-- only display title if it's non-empty -->
-              <b:if cond='data:title != &quot;&quot;'>
-                <h2 class='title'><data:title/></h2>
-              </b:if>
-              <div class='widget-content'>
-                <data:content/>
-              </div>
-
-              <b:include name='quickedit'/>
-            </b:includable>
-          </b:widget>
+	
           <b:widget id='Label1' locked='false' title='Categories' type='Label' version='1'>
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
@@ -2851,7 +2836,7 @@ user is not using shrink to fit then we expand the header.
         </b:includable>
       </b:widget>
     </b:section>
-    <div class='copyright'>Created By <a href='http://soratemplates.com/' id='mycontent' rel='dofollow' title='Free Blogger Templates'>SoraTemplates</a> | Distributed By <a href='http://www.mybloggerthemes.com/' rel='dofollow' target='_blank' style='color:#052963;'>Blogspot Themes</a>
+    <div class='copyright'>Copp <a href='https://www.the-epaper.com/' id='mycontent' rel='dofollow' title='Free Blogger Templates'>FFFF</a> | Distributed By <a href='https://www.the-epaper.com/' rel='dofollow' target='_blank' style='color:#ff22;'>Blogspot Themes</a>
     </div>
   </div>
 </div>
