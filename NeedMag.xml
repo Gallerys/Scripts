@@ -77,7 +77,7 @@ License:     Free Version
   <Variable name="main.color" description="Main Theme Color" type="color" default="#052963" value="#052963"/>
   <Variable name="main.dark.color" description="Main Dark Color" type="color" default="#2c2c2c" value="#2c2c2c"/>
   <Variable name="main.bb.color" description="Borders and Buttons Color" type="color" default="#404040" value="#404040"/>
-  <Variable name="main.text.color" description="Main Text Color" type="color" default="#333333" value="#333333"/>
+  <Variable name="main.text.color" description="Main Text Color" type="color" default="#052963" value="#052963"/>
 </Group>
 ======================= 
 */
