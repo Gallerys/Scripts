@@ -2536,6 +2536,22 @@ user is not using shrink to fit then we expand the header.
               <b:include name='quickedit'/>
             </b:includable>
           </b:widget>
+	<b:widget id='HTML5' locked='false' title='বিজ্ঞান ও প্রযুক্তি' type='HTML' version='1'>
+            <b:widget-settings>
+              <b:widget-setting name='content'>3/বিজ্ঞান ও প্রযুক্তি/post-per-tag</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+              <!-- only display title if it's non-empty -->
+              <b:if cond='data:title != &quot;&quot;'>
+                <h2 class='title'><data:title/></h2>
+              </b:if>
+              <div class='widget-content'>
+                <data:content/>
+              </div>
+
+              <b:include name='quickedit'/>
+            </b:includable>
+          </b:widget>
           <b:widget id='Label1' locked='false' title='Categories' type='Label' version='1'>
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
