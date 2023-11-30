@@ -1377,6 +1377,8 @@ document.write(&quot;Today is &quot; + dayName[now.getDay()] + &quot;, &quot; + 
 <b:section class='section' id='nav'>
   <b:widget id='LinkList150' locked='false' title='Site Links' type='LinkList' version='1'>
     <b:widget-settings>
+	    <b:widget-setting name='link-9'>#</b:widget-setting>
+	    <b:widget-setting name='text-9'>য&#2507;গ&#2494;য&#2507;গ</b:widget-setting>
       <b:widget-setting name='text-8'>য&#2507;গ&#2494;য&#2507;গ</b:widget-setting>
       <b:widget-setting name='link-7'>#</b:widget-setting>
       <b:widget-setting name='link-8'>#</b:widget-setting>
