@@ -1264,22 +1264,7 @@ document.write(&quot;Today is &quot; + dayName[now.getDay()] + &quot;, &quot; + 
 
 </div>
 </div>
-</div>
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+</div>	
 	
 <div class='top-header'>
 <div id='header-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPHeader'>
