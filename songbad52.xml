@@ -1377,21 +1377,24 @@ document.write(&quot;Today is &quot; + dayName[now.getDay()] + &quot;, &quot; + 
 <b:section class='section' id='nav'>
   <b:widget id='LinkList150' locked='false' title='Site Links' type='LinkList' version='1'>
     <b:widget-settings>
-	    <b:widget-setting name='link-9'>#</b:widget-setting>
+	    <b:widget-setting name='link-9'>https://www.the-epaper.com/search/label/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A7%8D%E0%A6%A8%20%E0%A6%93%20%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0</b:widget-setting>
 	    <b:widget-setting name='text-9'>প্রশ্ন ও উত্তর</b:widget-setting>
-	    <b:widget-setting name='link-10'>#</b:widget-setting>
+	    <b:widget-setting name='link-10'>https://www.the-epaper.com/search/label/%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%A4</b:widget-setting>
 	    <b:widget-setting name='text-10'>মতামত</b:widget-setting>
 
-	    <b:widget-setting name='link-11'>#</b:widget-setting>
+	    <b:widget-setting name='link-11'>https://www.the-epaper.com/search/label/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF</b:widget-setting>
 	    <b:widget-setting name='text-11'>রাজনীতি</b:widget-setting>
-	    <b:widget-setting name='link-12'>#</b:widget-setting>
+	    <b:widget-setting name='link-12'>https://www.the-epaper.com/search/label/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF</b:widget-setting>
 	    <b:widget-setting name='text-12'>অর্থনীতি</b:widget-setting>
+
+	    <b:widget-setting name='link-13'>https://www.the-epaper.com/search/label/%E0%A6%85%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%AF</b:widget-setting>
+	    <b:widget-setting name='text-13'>অনন্য</b:widget-setting>
 	    
-      <b:widget-setting name='text-8'>য&#2507;গ&#2494;য&#2507;গ</b:widget-setting>
-      <b:widget-setting name='link-7'>#</b:widget-setting>
-      <b:widget-setting name='link-8'>#</b:widget-setting>
+      <b:widget-setting name='text-8'>বাংলাদেশ</b:widget-setting>
+      <b:widget-setting name='link-7'>https://www.the-epaper.com/search/label/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%20%E0%A6%93%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF</b:widget-setting>
+      <b:widget-setting name='link-8'>https://www.the-epaper.com/search/label/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6</b:widget-setting>
       <b:widget-setting name='link-5'>#</b:widget-setting>
-      <b:widget-setting name='link-6'>#</b:widget-setting>
+      <b:widget-setting name='link-6'>https://www.the-epaper.com/search/label/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%20%E0%A6%93%20%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF</b:widget-setting>
       <b:widget-setting name='link-3'>#</b:widget-setting>
       <b:widget-setting name='link-4'>#</b:widget-setting>
       <b:widget-setting name='text-1'>জাতীয়</b:widget-setting>
