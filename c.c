@@ -18,7 +18,6 @@
 #include <sys/types.h>  // System-specific data types
 #include <sys/stat.h>   // File status information
 
-
 int main()
 {
     int a, b;
